@@ -1,4 +1,4 @@
-![logo](https://github.com/Hamdhanvh/stack-dev/blob/main/Blue%20Neon%20Gaming%20Youtube%20Thumbnail.png)
+![logo](https://github.com/Hamdhanvh/Hamdhanvh/blob/main/Blue%20Neon%20Gaming%20Youtube%20Thumbnail.png)
 <h1 align="center">Hi 👋, I'm Hamdhan.vh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
